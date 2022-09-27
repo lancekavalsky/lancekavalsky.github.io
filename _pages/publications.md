@@ -15,6 +15,8 @@ N.B. &dagger; indicates equal author contribution
 
     This work explores the prospect of electrochemically reducing N$_2$ directly to hydrazine rather than ammonia.
 
+<br />
+<br />
 
 - **Robust Active Site Design of Single-Atom Catalysts for Electrochemical Ammonia Synthesis**
 
@@ -22,6 +24,8 @@ N.B. &dagger; indicates equal author contribution
 
     Considering single-atom catalysts with a g-C$_3$N$_4$ host, I developed an uncertainty quantification framework using BEEF to robustly predict electrochemical NRR performance.
 
+<br />
+<br />
 
 - **Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents**
 
@@ -29,6 +33,8 @@ N.B. &dagger; indicates equal author contribution
 
     This work used implicit solvation models to quantify the influence of the dielectric constant towards adsorption of Na and Li on graphene.
 
+<br />
+<br />
 
 - **Compression induced resistance of singlet oxygen dissociation on phosphorene**
 
@@ -36,12 +42,17 @@ N.B. &dagger; indicates equal author contribution
 
     Through a combination of metadynamics-biased AIMD and NEB calculations I quantified the effect of compression towards preventing singlet oxygen dissociation on phosphorene.
 
+<br />
+<br />
+
 - **Phosphorene as a Catalyst for Highly Efficient Nonaqueous Li–Air Batteries**
 
     **L. Kavalsky**, S. Mukherjee, C.V. Singh. *ACS Applied Materials & Interfaces*, 2019, 11 (1), 499-510 [[link](https://pubs.acs.org/doi/full/10.1021/acsami.8b13505)]
 
     I used DFT to characterize phosphorene as an electrocatalyst that can be used in the cathode of Li-air batteries.
 
+<br />
+<br />
 
 - **Adsorption and diffusion of lithium polysulfides over blue phosphorene for Li–S batteries**
 
@@ -49,6 +60,8 @@ N.B. &dagger; indicates equal author contribution
 
     This work investigates how the lithium polysulfides that form in Li-S batteries would interact on a blue phosphorene anode
 
+<br />
+<br />
 
 - **Ultrahigh Storage and Fast Diffusion of Na and K in Blue Phosphorene Anodes**
 
