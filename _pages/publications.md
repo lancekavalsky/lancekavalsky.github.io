@@ -9,6 +9,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
+- **By how much can closed loop frameworks accelerate computational materials discovery?**
+
+    **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. [[preprint](/files/acceleration__benchmarks_preprint-09-30-2022.pdf)]
+
+<br />
+<br />
+
 - **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
 
     L.M. Tsiverioti, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2022, 126 (31), 12994-13003 [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01630)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/62278c38c45c0b4f6729dda1)]
