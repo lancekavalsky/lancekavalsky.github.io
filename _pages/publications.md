@@ -16,6 +16,13 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
+- **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
+
+    R.B. Patil, M. Kaur, S.D. House, **L. Kavalsky**, K. Hu, S. Zhong, D. Krishnamurthy, V. Viswanathan, J. Yang, Y. Yan, J. Lattimer, J.R. McKone. 2022 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6349a624e3f3ee46d55a7a3a)]
+
+<br />
+<br />
+
 - **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
 
     L.M. Tsiverioti, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2022, 126 (31), 12994-13003 [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01630)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/62278c38c45c0b4f6729dda1)]
