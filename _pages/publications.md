@@ -11,7 +11,7 @@ N.B. &dagger; indicates equal author contribution
 
 - **By how much can closed loop frameworks accelerate computational materials discovery?**
 
-    **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. [[preprint](/files/acceleration__benchmarks_preprint-09-30-2022.pdf)]
+    **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. 2022 [[arXiv](https://arxiv.org/abs/2211.10533)]
 
 <br />
 <br />
