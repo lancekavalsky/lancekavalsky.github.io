@@ -23,6 +23,13 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
+- **AutoMat: Automated materials discovery for electrochemical systems**
+
+    E. Annevelink, R.C. Kurchin, E. Muckley, **L. Kavalsky**, V.I. Hegde, V. Sulzer, S. Zhu, J. Pu, D. Farina, M.S. Johnson, D. Gandhi, A. Dave, H. Lin, A. Edelman, B. Ramsundar, J. Saal, C. Rackauckas, V. Shah, B. Meredig, V. Viswanathan. *MRS Bulletin* 2022 [[link](https://link.springer.com/article/10.1557/s43577-022-00424-0)][[arXiv](https://arxiv.org/abs/2011.04426)]
+
+<br />
+<br />
+
 - **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
 
     L.M. Tsiverioti, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2022, 126 (31), 12994-13003 [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01630)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/62278c38c45c0b4f6729dda1)]
