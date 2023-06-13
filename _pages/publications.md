@@ -13,15 +13,15 @@ N.B. &dagger; indicates equal author contribution
 
      **L. Kavalsky**, V.I. Hegde, B. Meredig, V. Viswanathan. 2023 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6470fdd74f8b1884b7552bf1)]
 
-<br />
-<br />
+    <br />
+    <br />
 
 2. **By how much can closed loop frameworks accelerate computational materials discovery?**
 
      **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. 2022 [[arXiv](https://arxiv.org/abs/2211.10533)]
 
-<br />
-<br />
+    <br />
+    <br />
 
 3. **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
 
