@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**TA: 24-703 Numerical Methods in Engineering**, *Carnegie Mellon University*, Pittsburgh, PA. (2023) 
+
+I served as a teaching assistant to Prof. McGaughey's graduate level numerical methods course. Here I held office hours, supported running in-class exercises, ran an introductory C++ session, held progress meetings with project teams, led homework review sessions, and assisted with grading midterms and final project presentations.
+
+<br />
+<br />
+
 **TA: 24-643 Energy Storage Materials & Systems**, *Carnegie Mellon University*, Pittsburgh, PA. (2021) 
 
 I served as a teaching assistant to Prof. Viswanathan's energy storage course. Responsibilities included holding office hours, teaching supplementary course content, and supporting the development of course materials (lecture handouts, midterm questions, code demos, etc..)
