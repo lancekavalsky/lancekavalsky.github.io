@@ -9,28 +9,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
-- **By how much can closed loop frameworks accelerate computational materials discovery?**
+9. **By how much can closed loop frameworks accelerate computational materials discovery?**
 
     **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. 2022 [[arXiv](https://arxiv.org/abs/2211.10533)]
 
 <br />
 <br />
 
-- **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
+8. **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
 
     R.B. Patil, M. Kaur, S.D. House, **L. Kavalsky**, K. Hu, S. Zhong, D. Krishnamurthy, V. Viswanathan, J. Yang, Y. Yan, J. Lattimer, J.R. McKone. 2022 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6349a624e3f3ee46d55a7a3a)]
 
 <br />
 <br />
 
-- **AutoMat: Automated materials discovery for electrochemical systems**
+7. **AutoMat: Automated materials discovery for electrochemical systems**
 
     E. Annevelink, R.C. Kurchin, E. Muckley, **L. Kavalsky**, V.I. Hegde, V. Sulzer, S. Zhu, J. Pu, D. Farina, M.S. Johnson, D. Gandhi, A. Dave, H. Lin, A. Edelman, B. Ramsundar, J. Saal, C. Rackauckas, V. Shah, B. Meredig, V. Viswanathan. *MRS Bulletin* 2022 [[link](https://link.springer.com/article/10.1557/s43577-022-00424-0)][[arXiv](https://arxiv.org/abs/2011.04426)]
 
 <br />
 <br />
 
-- **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
+6. **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
 
     L.M. Tsiverioti, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2022, 126 (31), 12994-13003 [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01630)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/62278c38c45c0b4f6729dda1)]
 
@@ -39,7 +39,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Robust Active Site Design of Single-Atom Catalysts for Electrochemical Ammonia Synthesis**
+5. **Robust Active Site Design of Single-Atom Catalysts for Electrochemical Ammonia Synthesis**
 
     **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2020, 124 (42), 23164-23176 [[link](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c06692)][[arXiv](https://arxiv.org/abs/2007.10318)]
 
@@ -48,7 +48,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents**
+4. **Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents**
 
     S. Mukherjee, **L. Kavalsky**, K. Chattopadhyay, C.V. Singh. *Carbon* 2020, 161, 570-576 [[link](https://www.sciencedirect.com/science/article/pii/S0008622320301391)]
 
@@ -66,7 +66,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Phosphorene as a Catalyst for Highly Efficient Nonaqueous Li–Air Batteries**
+3. **Phosphorene as a Catalyst for Highly Efficient Nonaqueous Li–Air Batteries**
 
     **L. Kavalsky**, S. Mukherjee, C.V. Singh. *ACS Applied Materials & Interfaces*, 2019, 11 (1), 499-510 [[link](https://pubs.acs.org/doi/full/10.1021/acsami.8b13505)]
 
@@ -75,7 +75,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Adsorption and diffusion of lithium polysulfides over blue phosphorene for Li–S batteries**
+2. **Adsorption and diffusion of lithium polysulfides over blue phosphorene for Li–S batteries**
 
     S. Mukherjee, **L. Kavalsky**, C.V. Singh. *Nanoscale*, 2018 10 (45), 21335-21352 [[link](https://pubs.rsc.org/en/content/articlehtml/2018/nr/c8nr04868a)]
 
@@ -84,7 +84,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Ultrahigh Storage and Fast Diffusion of Na and K in Blue Phosphorene Anodes**
+1. **Ultrahigh Storage and Fast Diffusion of Na and K in Blue Phosphorene Anodes**
 
     S. Mukherjee&dagger;, **L. Kavalsky&dagger;**, C.V. Singh. *ACS Applied Materials & Interfaces*, 2018, 10 (10), 8630-8639 [[link](https://pubs.acs.org/doi/full/10.1021/acsami.7b18595)]
 
