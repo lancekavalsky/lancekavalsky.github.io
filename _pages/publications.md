@@ -9,6 +9,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
+10. **A Multiobjective Closed-loop Approach Towards Autonomous Discovery of Electrocatalysts for Nitrogen Reduction**
+
+    **L. Kavalsky**, V.I. Hegde, B. Meredig, V. Viswanathan. 2023 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6470fdd74f8b1884b7552bf1)]
+
+<br />
+<br />
+
 9. **By how much can closed loop frameworks accelerate computational materials discovery?**
 
     **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. 2022 [[arXiv](https://arxiv.org/abs/2211.10533)]
