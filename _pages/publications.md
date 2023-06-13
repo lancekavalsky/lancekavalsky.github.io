@@ -9,35 +9,35 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
-10. **A Multiobjective Closed-loop Approach Towards Autonomous Discovery of Electrocatalysts for Nitrogen Reduction**
+11. **A Multiobjective Closed-loop Approach Towards Autonomous Discovery of Electrocatalysts for Nitrogen Reduction**
 
     **L. Kavalsky**, V.I. Hegde, B. Meredig, V. Viswanathan. 2023 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6470fdd74f8b1884b7552bf1)]
 
 <br />
 <br />
 
-9. **By how much can closed loop frameworks accelerate computational materials discovery?**
+10. **By how much can closed loop frameworks accelerate computational materials discovery?**
 
     **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. 2022 [[arXiv](https://arxiv.org/abs/2211.10533)]
 
 <br />
 <br />
 
-8. **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
+9. **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
 
     R.B. Patil, M. Kaur, S.D. House, **L. Kavalsky**, K. Hu, S. Zhong, D. Krishnamurthy, V. Viswanathan, J. Yang, Y. Yan, J. Lattimer, J.R. McKone. 2022 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6349a624e3f3ee46d55a7a3a)]
 
 <br />
 <br />
 
-7. **AutoMat: Automated materials discovery for electrochemical systems**
+8. **AutoMat: Automated materials discovery for electrochemical systems**
 
     E. Annevelink, R.C. Kurchin, E. Muckley, **L. Kavalsky**, V.I. Hegde, V. Sulzer, S. Zhu, J. Pu, D. Farina, M.S. Johnson, D. Gandhi, A. Dave, H. Lin, A. Edelman, B. Ramsundar, J. Saal, C. Rackauckas, V. Shah, B. Meredig, V. Viswanathan. *MRS Bulletin* 2022 [[link](https://link.springer.com/article/10.1557/s43577-022-00424-0)][[arXiv](https://arxiv.org/abs/2011.04426)]
 
 <br />
 <br />
 
-6. **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
+7. **Robust Analysis of 4e– Versus 6e– Reduction of Nitrogen on Metal Surfaces and Single-Atom Alloys**
 
     L.M. Tsiverioti, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2022, 126 (31), 12994-13003 [[link](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01630)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/62278c38c45c0b4f6729dda1)]
 
@@ -45,7 +45,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-5. **Robust Active Site Design of Single-Atom Catalysts for Electrochemical Ammonia Synthesis**
+6. **Robust Active Site Design of Single-Atom Catalysts for Electrochemical Ammonia Synthesis**
 
     **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2020, 124 (42), 23164-23176 [[link](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c06692)][[arXiv](https://arxiv.org/abs/2007.10318)]
 
@@ -53,7 +53,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-4. **Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents**
+5. **Dramatic improvement in the performance of graphene as Li/Na battery anodes with suitable electrolytic solvents**
 
     S. Mukherjee, **L. Kavalsky**, K. Chattopadhyay, C.V. Singh. *Carbon* 2020, 161, 570-576 [[link](https://www.sciencedirect.com/science/article/pii/S0008622320301391)]
 
@@ -61,7 +61,7 @@ N.B. &dagger; indicates equal author contribution
 <br />
 <br />
 
-- **Compression induced resistance of singlet oxygen dissociation on phosphorene**
+4. **Compression induced resistance of singlet oxygen dissociation on phosphorene**
 
     **L. Kavalsky**, S. Mukherjee, C.V. Singh. *Physical Review Materials*, 2020, 4, 021001 (Editor's Suggestion) [[link](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.021001)]
 
