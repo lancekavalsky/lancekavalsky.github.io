@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**TA: 24-703 Numerical Methods in Engineering**, *Carnegie Mellon University*, Pittsburgh, PA. (2023) 
+**TA: 24-703/12-703 Numerical Methods in Engineering**, *Carnegie Mellon University*, Pittsburgh, PA. (2023) 
 
 I served as a teaching assistant to Prof. McGaughey's graduate level numerical methods course. Here I held office hours, supported running in-class exercises, ran an introductory C++ session, held progress meetings with project teams, led homework review sessions, and assisted with grading midterms and final project presentations.
 
