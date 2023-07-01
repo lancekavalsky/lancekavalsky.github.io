@@ -32,7 +32,7 @@ N.B. &dagger; indicates equal author contribution
 
 4. **AutoMat: Automated materials discovery for electrochemical systems**
 
-     E. Annevelink, R.C. Kurchin, E. Muckley, **L. Kavalsky**, V.I. Hegde, V. Sulzer, S. Zhu, J. Pu, D. Farina, M.S. Johnson, D. Gandhi, A. Dave, H. Lin, A. Edelman, B. Ramsundar, J. Saal, C. Rackauckas, V. Shah, B. Meredig, V. Viswanathan. *MRS Bulletin* 2022 [[link](https://link.springer.com/article/10.1557/s43577-022-00424-0)][[arXiv](https://arxiv.org/abs/2011.04426)]
+     E. Annevelink, R.C. Kurchin, E. Muckley, **L. Kavalsky**, V.I. Hegde, V. Sulzer, S. Zhu, J. Pu, D. Farina, M.S. Johnson, D. Gandhi, A. Dave, H. Lin, A. Edelman, B. Ramsundar, J. Saal, C. Rackauckas, V. Shah, B. Meredig, V. Viswanathan. *MRS Bulletin*, 2022, 47 (10), 1036-1044 [[link](https://link.springer.com/article/10.1557/s43577-022-00424-0)][[arXiv](https://arxiv.org/abs/2011.04426)]
 
     <br />
     <br />
