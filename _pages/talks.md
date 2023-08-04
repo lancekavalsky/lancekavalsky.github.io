@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Talks
+# Oral Presentations
 
 1. **Autonomous Multiobjective Computational Discovery of NRR Electrocatalysts**
 
