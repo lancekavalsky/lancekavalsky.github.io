@@ -18,7 +18,7 @@ N.B. &dagger; indicates equal author contribution
 
 2. **By how much can closed loop frameworks accelerate computational materials discovery?**
 
-     **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. *Digital Discovery*, 2023, DOI: 10.1039/D2DD00133K [[link](https://doi.org/10.1039/D2DD00133K)][[arXiv](https://arxiv.org/abs/2211.10533)]
+     **L. Kavalsky&dagger;**, V.I. Hegde&dagger;, E. Muckley, M.S. Johnson, B. Meredig, V. Viswanathan. *Digital Discovery*, 2023, 2, 1112-1125 [[link](https://doi.org/10.1039/D2DD00133K)][[arXiv](https://arxiv.org/abs/2211.10533)]
 
     <br />
     <br />
