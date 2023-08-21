@@ -25,7 +25,7 @@ N.B. &dagger; indicates equal author contribution
 
 3. **Reversible Alkaline Hydrogen Evolution and Oxidation Reactions Using Ni–Mo Catalysts Supported on Carbon**
 
-     R.B. Patil, M. Kaur, S.D. House, **L. Kavalsky**, K. Hu, S. Zhong, D. Krishnamurthy, V. Viswanathan, J. Yang, Y. Yan, J. Lattimer, J.R. McKone. 2022 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6349a624e3f3ee46d55a7a3a)]
+     R.B. Patil, M. Kaur, S.D. House, **L. Kavalsky**, K. Hu, S. Zhong, D. Krishnamurthy, V. Viswanathan, J. Yang, Y. Yan, J. Lattimer, J.R. McKone. *Energy Advances*, 2023 DOI: 10.1039/D3YA00140G [[link](https://doi.org/10.1039/D3YA00140G)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6349a624e3f3ee46d55a7a3a)]
 
     <br />
     <br />
