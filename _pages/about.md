@@ -13,11 +13,11 @@ I'm a PhD candidate in [Prof. Venkatasubramanian Viswanathan's group](https://ww
 I'm also a developer of [*Autocat*](https://aced-differentiate.github.io/auto_cat/), an open-source python software that provides tools to support electrocatalytic structure generation for first principles simulation. Additionally, it provides tools to support closed-loop computational searches for electrocatalyst discovery.
 
 # Bio
-- **PhD Mechanical Engineering, University of Michigan** 2024 (expected)
+- **PhD Mechanical Engineering, University of Michigan** 2024 (expected)  
     Advisor: Prof. Venkatasubramanian Viswanathan
-- **MS Mechanical Engineering, Carnegie Mellon University** 2023
+- **MS Mechanical Engineering, Carnegie Mellon University** 2023  
     Advisor: Prof. Venkatasubramanian Viswanathan
-- **MASc Materials Science & Engineering, University of Toronto** 2019
+- **MASc Materials Science & Engineering, University of Toronto** 2019  
     Advisor: Prof. Chandra Veer Singh
 - **HBSc Physics Specialist & Math Minor, University of Toronto** 2017
 
