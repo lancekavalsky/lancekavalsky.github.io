@@ -23,16 +23,14 @@ author_profile: true
 
 # Posters
 
-1. **Accelerated Computational Discov-
-ery of Electrocatalysts via an Autonomous Multiobjective Workflow**
+1. **Accelerated Computational Discovery of Electrocatalysts via an Autonomous Multiobjective Workflow**
 
     **L. Kavalsky**, V.I. Hegde, V. Viswanathan. *Accelerate Conference*, Toronto, ON (August 2023) [[link](https://www.accelerate23.ca/)]
 
     <br />
     <br />
 
-1. **Unraveling the Iron-Water Interface for Electro-
-chemical Steel Production**
+1. **Unraveling the Iron-Water Interface for Electrochemical Steel Production**
 
     **L. Kavalsky** and V. Viswanathan. *The 28th North American Catalysis Society Meeting*, Providence, RI (June 2023) [[link](https://nam.confex.com/nam/2023/meetingapp.cgi/Paper/31104)]
 
