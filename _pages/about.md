@@ -14,8 +14,11 @@ I'm also a developer of [*Autocat*](https://aced-differentiate.github.io/auto_ca
 
 # Bio
 - **PhD Mechanical Engineering, University of Michigan** 2024 (expected)
+    Advisor: Prof. Venkatasubramanian Viswanathan
 - **MS Mechanical Engineering, Carnegie Mellon University** 2023
+    Advisor: Prof. Venkatasubramanian Viswanathan
 - **MASc Materials Science & Engineering, University of Toronto** 2019
+    Advisor: Prof. Chandra Veer Singh
 - **HBSc Physics Specialist & Math Minor, University of Toronto** 2017
 
 # Research interests at a glance
