@@ -9,9 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
-1. **A Multiobjective Closed-loop Approach Towards Autonomous Discovery of Electrocatalysts for Nitrogen Reduction**
+1. **A multiobjective closed-loop approach towards autonomous discovery of electrocatalysts for nitrogen reduction**
 
-     **L. Kavalsky**, V.I. Hegde, B. Meredig, V. Viswanathan. 2023 [[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6470fdd74f8b1884b7552bf1)]
+     **L. Kavalsky**, V.I. Hegde, B. Meredig, V. Viswanathan. *Digital Discovery*, 2024, 3, 999-1010 [[link](https://doi.org/10.1039/D3DD00244F)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/6470fdd74f8b1884b7552bf1)]
 
     <br />
     <br />
