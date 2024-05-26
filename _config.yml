@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lance Kavalsky"
 title_separator          : "-"
 name                     : &name "Lance Kavalsky"
-description              : &description "PhD Candidate at University of Michigan"
+description              : &description "Postdoc at University of Wisconsin-Madison"
 url                      : https://lancekavalsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lancekavalsky.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lance Kavalsky"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at University of Michigan"
-  location         : "Ann Arbor"
+  bio              : "Postdoc at University of Wisconsin-Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kPsUy9IAAAAJ&hl=en"
-  email            : "lkavalsk@umich.edu"
+  email            : "kavalsky@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
