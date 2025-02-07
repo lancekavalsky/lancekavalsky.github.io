@@ -20,8 +20,8 @@ Education
 ======
 * Ph.D in Mechanical Engineering, University of Michigan, 2024
 * M.S. in Mechanical Engineering, Carnegie Mellon University, 2023
-* M.A.Sc. in Materials Science \& Engineering, University of Toronto, 2019
-* HB.Sc. in Physics \& Math, University of Toronto, 2017
+* M.A.Sc. in Materials Science & Engineering, University of Toronto, 2019
+* H.B.Sc. in Physics & Math, University of Toronto, 2017
 
 Publications
 ======
