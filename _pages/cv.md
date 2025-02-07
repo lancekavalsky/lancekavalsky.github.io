@@ -130,13 +130,13 @@ Poster Presentations
 Teaching
 ======
   
-**TA: 24-703/12-703 Numerical Methods in Engineering**, *Carnegie Mellon University*, Pittsburgh, PA. (2023) 
+1. **TA: 24-703/12-703 Numerical Methods in Engineering**, *Carnegie Mellon University*, Pittsburgh, PA. (2023) 
 
-**TA: 24-643 Energy Storage Materials & Systems**, *Carnegie Mellon University*, Pittsburgh, PA. (2021) 
+1. **TA: 24-643 Energy Storage Materials & Systems**, *Carnegie Mellon University*, Pittsburgh, PA. (2021) 
 
-**TA: MSE 1038H/438H Computational Materials Design**, *University of Toronto*, Toronto ON (2018)
+1. **TA: MSE 1038H/438H Computational Materials Design**, *University of Toronto*, Toronto ON (2018)
 
-**Counsellor: Da Vinci Engineering Ennrichment Program Summer Academy**, *University of Toronto*, Toronto ON (2017)
+1. **Counsellor: Da Vinci Engineering Ennrichment Program Summer Academy**, *University of Toronto*, Toronto ON (2017)
 
 
 Academic Service 
