@@ -7,6 +7,13 @@ author_profile: true
 
 # Oral Presentations
 
+1. **(Invited) Developing Machine-Learned Interatomic Potentials for Au: A Gold Mine for Surface Science Insights**
+
+    **L. Kavalsky**, M. Mavrikakis, *CATHEX/Hougen Symposium*, Madison, WI (June 2025) 
+
+    <br />
+    <br />
+
 1. **Autonomous Multiobjective Computational Discovery of NRR Electrocatalysts**
 
     **L. Kavalsky**, V.I Hegde, V. Viswanathan. *The 28th North American Catalysis Society Meeting*, Providence, RI (June 2023) [[link](https://nam.confex.com/nam/2023/meetingapp.cgi/Paper/31565)]
