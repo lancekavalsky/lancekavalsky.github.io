@@ -9,6 +9,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
+1. **What Makes Au Nanospheres Superior to Octahedral and Cubic Counterparts for the Deposition of a Pt Monolayer Shell?**
+
+     K.K. Li&dagger;, **L. Kavalsky&dagger;**, M. Figueras-Valls, Y. Ding, M. Mavrikakis, Y. Xia. *Journal of the American Chemical Society*, 2025 (in press) [[link](https://doi.org/10.1021/jacs.5c03700)]
+
+    <br />
+    <br />
+
+1. **Lithium nitride (Li3N) formation in lithium-mediated electrochemical ammonia synthesis can be enhanced with the right proton donor**
+
+     V. Azumah, **L. Kavalsky**, V. Viswanathan. *Journal of Catalysis*, 2025, 450, 116250 [[link](https://doi.org/10.1016/j.jcat.2025.116250)]
+
+    <br />
+    <br />
+
 1. **Proton Donors Influence Nitrogen Adsorption in Lithium-Mediated Electrochemical Ammonia Synthesis**
 
      V. Azumah, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2025, 129, 5, 2488-2501 [[link](https://doi.org/10.1021/acs.jpcc.4c08138)][[arXiv](https://chemrxiv.org/engage/chemrxiv/article-details/67043dad51558a15ef6775ef)]
