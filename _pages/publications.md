@@ -11,7 +11,7 @@ N.B. &dagger; indicates equal author contribution
 
 1. **What Makes Au Nanospheres Superior to Octahedral and Cubic Counterparts for the Deposition of a Pt Monolayer Shell?**
 
-     K.K. Li&dagger;, **L. Kavalsky&dagger;**, M. Figueras-Valls, Y. Ding, M. Mavrikakis, Y. Xia. *Journal of the American Chemical Society*, 2025 (in press) [[link](https://doi.org/10.1021/jacs.5c03700)]
+     K.K. Li&dagger;, **L. Kavalsky&dagger;**, M. Figueras-Valls, Y. Ding, M. Mavrikakis, Y. Xia. *Journal of the American Chemical Society*, 2025, 147, 29, 25273-25286 [[link](https://doi.org/10.1021/jacs.5c03700)]
 
     <br />
     <br />
