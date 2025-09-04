@@ -30,6 +30,13 @@ N.B. &dagger; indicates equal author contribution
     <br />
     <br />
 
+1. **Automatic Generation of Chemical Mechanisms for Electrochemical Systems: Solid Electrolyte Interphase Formation in Lithium Batteries**
+
+     M.S. Johnson, D. Farina, **L. Kavalsky**, J. Zador, R.H. West, V. Viswanathan, W.H. Green. *The Journal of Physical Chemistry C*, 2025, 129, 28, 12667-12678 [[link](https://doi.org/10.1021/acs.jpcc.5c00507)][[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6695ecaf5101a2ffa87f3953)]
+
+    <br />
+    <br />
+
 1. **Proton Donors Influence Nitrogen Adsorption in Lithium-Mediated Electrochemical Ammonia Synthesis**
 
      V. Azumah, **L. Kavalsky**, V. Viswanathan. *The Journal of Physical Chemistry C*, 2025, 129, 5, 2488-2501 [[link](https://doi.org/10.1021/acs.jpcc.4c08138)][[preprint](https://chemrxiv.org/engage/chemrxiv/article-details/67043dad51558a15ef6775ef)]
