@@ -9,6 +9,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
+1. **Adsorption and Dissociation of CO on Gold Surfaces: Effect of Coverage and Adatom Clusters**
+
+     **L. Kavalsky** and M. Mavrikakis. *ChemRxiv*, 2025, DOI: 10.26434/chemrxiv-2025-k4d1v [[link](https://doi.org/10.26434/chemrxiv-2025-k4d1v)]
+
+    <br />
+    <br />
+
 1. **What Makes Au Nanospheres Superior to Octahedral and Cubic Counterparts for the Deposition of a Pt Monolayer Shell?**
 
      K.K. Li&dagger;, **L. Kavalsky&dagger;**, M. Figueras-Valls, Y. Ding, M. Mavrikakis, Y. Xia. *Journal of the American Chemical Society*, 2025, 147, 29, 25273-25286 [[link](https://doi.org/10.1021/jacs.5c03700)]
