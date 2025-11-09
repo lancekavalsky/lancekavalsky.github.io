@@ -7,6 +7,13 @@ author_profile: true
 
 # Oral Presentations
 
+1. **Understanding Anion Adsorption in Low Pt-Loading N-Doped Intermetallic Fuel Cell Cathodes**
+
+    **L. Kavalsky**, X. Zhao, K. Sasaki, M. Mavrikakis, *Electrochemical Society Meeting*, Chicago, IL (October 2025) 
+
+    <br />
+    <br />
+
 1. **(Invited) Developing Machine-Learned Interatomic Potentials for Au: A Gold Mine for Surface Science Insights**
 
     **L. Kavalsky**, M. Mavrikakis, *CATHEX/Hougen Symposium*, Madison, WI (June 2025) 
