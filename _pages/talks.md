@@ -7,6 +7,13 @@ author_profile: true
 
 # Oral Presentations
 
+1. **Modeling Au Surfaces in Reactive Environments via Machine-Learned Interatomic Potentials**
+
+    **L. Kavalsky**, M. Mavrikakis, *2025 MRS Fall Meeting*, Boston, MA (December 2025) 
+
+    <br />
+    <br />
+
 1. **Understanding Anion Adsorption in Low Pt-Loading N-Doped Intermetallic Fuel Cell Cathodes**
 
     **L. Kavalsky**, X. Zhao, K. Sasaki, M. Mavrikakis, *Electrochemical Society Meeting*, Chicago, IL (October 2025) 
@@ -36,6 +43,13 @@ author_profile: true
     <br />
 
 # Posters
+
+1. **Investigating Anion Poisoning on N-Doped L1<sub>0</sub> Intermetallic Fuel Cell Cathodes Through First-Principles Modeling**
+
+    **L. Kavalsky**, X. Zhao, K. Sasaki, M. Mavrikakis, *2025 MRS Fall Meeting*, Boston, MA (December 2025) (**MRS Best Poster Award Nominee**)
+
+    <br />
+    <br />
 
 1. **Accelerated Computational Discovery of Electrocatalysts via an Autonomous Multiobjective Workflow**
 
