@@ -9,9 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 N.B. &dagger; indicates equal author contribution
 
-1. **Adsorption and Dissociation of CO on Gold Surfaces: Effect of Coverage and Adatom Clusters**
+1. **Adsorption of CO on gold: effect of coverage and surface deformations**
 
-     **L. Kavalsky** and M. Mavrikakis. *ChemRxiv*, 2025, DOI: 10.26434/chemrxiv-2025-k4d1v [[preprint](https://doi.org/10.26434/chemrxiv-2025-k4d1v)]
+     **L. Kavalsky** and M. Mavrikakis. *Catal. Sci. Technol.*, 2026, DOI: 10.1039/D6CY00336B [[link](https://doi.org/10.1039/d6cy00336b)]
 
     <br />
     <br />
