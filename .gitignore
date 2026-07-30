@@ -1,2 +1,7 @@
 _site/
-
+*.ipynb_checkpoints
+*~
+future_content*
+*.DS_Store
+*#
+*Gemfile*
