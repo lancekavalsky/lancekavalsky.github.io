@@ -11,7 +11,7 @@ N.B. &dagger; indicates equal author contribution
 
 1. **Adsorption of CO on gold: effect of coverage and surface deformations**
 
-     **L. Kavalsky** and M. Mavrikakis. *Catal. Sci. Technol.*, 2026, DOI: 10.1039/D6CY00336B [[link](https://doi.org/10.1039/d6cy00336b)]
+     **L. Kavalsky** and M. Mavrikakis. *Catal. Sci. Technol.*, 2026, 16, 5741-5752 [[link](https://doi.org/10.1039/d6cy00336b)]
 
     <br />
     <br />
