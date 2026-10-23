@@ -25,7 +25,7 @@ Previously, I earned my PhD under the guidance of [Prof. Venkatasubramanian Visw
 - **HBSc Physics Specialist & Math Minor, University of Toronto** 2017
 
 # Research interests at a glance
-- AI for Materials Science & Chemistry
+- ML for Materials Science & Chemistry
 - Electrocatalysis and electrosynthesis
 - Surface science and heterogeneous catalysis
 - Computational materials science & chemistry
