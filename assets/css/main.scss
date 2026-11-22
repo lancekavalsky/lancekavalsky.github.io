@@ -253,20 +253,3 @@ h1 {
   margin-bottom: 0.9em;
 }
 
-/* Reverse-numbered publication list */
-.page__content ol {
-  list-style: none;
-  counter-reset: pub-counter 18; /* set to total publications + 1 */
-  padding-left: 2.5em;
-}
-
-.page__content ol > li {
-  counter-increment: pub-counter -1;
-  position: relative;
-}
-
-.page__content ol > li::before {
-  content: counter(pub-counter) ".";
-  position: absolute;
-  left: -2.5em;
-}
