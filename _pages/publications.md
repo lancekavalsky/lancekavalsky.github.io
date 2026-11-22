@@ -114,4 +114,4 @@ N.B. &dagger; indicates equal author contribution
 13. **Ultrahigh Storage and Fast Diffusion of Na and K in Blue Phosphorene Anodes**
 
      S. Mukherjee&dagger;, **L. Kavalsky&dagger;**, C.V. Singh. *ACS Applied Materials & Interfaces*, 2018, 10 (10), 8630-8639 [[link](https://pubs.acs.org/doi/full/10.1021/acsami.7b18595)]
-
+{: reversed}
