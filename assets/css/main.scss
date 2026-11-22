@@ -246,25 +246,10 @@ a:focus {
 }
 
 /* --- Separator under h2 headings (About page sections) --- */
-h2 {
+h1 {
   border-bottom: 2px solid #cccccc;
   padding-bottom: 0.35em;
   margin-top: 2em;
   margin-bottom: 0.9em;
 }
 
-/* --- Separator between publication entries ---
-   Covers both archive layout and standard page layout  */
-.page__content ol li,
-.archive ol li,
-ol li {
-  margin-bottom: 1.25em;
-  padding-bottom: 1.25em;
-  border-bottom: 1px solid #cccccc;
-}
-
-.page__content ol li:last-child,
-.archive ol li:last-child,
-ol li:last-child {
-  border-bottom: none;
-}
