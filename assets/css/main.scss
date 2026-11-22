@@ -40,22 +40,12 @@
 
 
 /* ==========================================================================
-   CUSTOM OVERRIDES — Lance Kavalsky + Claude
+   CUSTOM OVERRIDES — Lance Kavalsky
    ========================================================================== */
 
 
 /* --------------------------------------------------------------------------
-   1. Google Fonts
-   --------------------------------------------------------------------------
-   DM Serif Display for headings (authoritative, distinctive)
-   Inter for body text (clean, highly readable)
-   -------------------------------------------------------------------------- */
-
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:ital,wght@0,400;0,600;1,400&display=swap');
-
-
-/* --------------------------------------------------------------------------
-   2. Accent Color
+   1. Accent Color
    --------------------------------------------------------------------------
    A single accent used consistently for links, hover states, and
    active nav. Swap this one value to retheme the whole site.
@@ -66,10 +56,12 @@ $accent-dark: #124d42; // used for :hover / :focus states
 
 
 /* --------------------------------------------------------------------------
-   3. Typography
+   2. Typography
+   --------------------------------------------------------------------------
+   Fonts are loaded via _includes/head/custom.html — not here.
+   The font-family names below reference those Google Fonts.
    -------------------------------------------------------------------------- */
-
-body {
+-------------------------------------------------------------------------- */ body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     font-size: 16px;
     line-height: 1.7;
