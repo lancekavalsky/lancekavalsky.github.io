@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Oral Presentations
+## Oral Presentations
 
 1. **Modeling Au Surfaces in Reactive Environments via Machine-Learned Interatomic Potentials**
 
@@ -42,7 +42,7 @@ author_profile: true
     
     
 
-# Posters
+## Posters
 
 1. **Investigating Anion Poisoning on N-Doped L1<sub>0</sub> Intermetallic Fuel Cell Cathodes Through First-Principles Modeling**
 
