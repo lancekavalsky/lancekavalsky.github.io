@@ -13,7 +13,7 @@ I'm a postdoctoral researcher in [Prof. Manos Mavrikakis's](https://manos.engr.w
 Previously, I earned my PhD under the guidance of [Prof. Venkatasubramanian Viswanathan](https://eeg.engin.umich.edu/) in the department of Mechanical Engineering at University of Michigan. My research broadly centered around first-principles modeling of electrochemical systems and using machine learning to guide autonomous materials discovery. 
 
 
-# Bio
+## Bio
 - **Postdoctoral Researcher, University of Wisconsin-Madison** 2024-present
     Advisor: Prof. Manos Mavrikakis
 - **PhD Mechanical Engineering, University of Michigan** 2024 
@@ -24,7 +24,7 @@ Previously, I earned my PhD under the guidance of [Prof. Venkatasubramanian Visw
     Advisor: Prof. Chandra Veer Singh
 - **HBSc Physics Specialist & Math Minor, University of Toronto** 2017
 
-# Research interests at a glance
+## Research interests at a glance
 - ML for Materials Science & Chemistry
 - Electrocatalysis and electrosynthesis
 - Surface science and heterogeneous catalysis
