@@ -14,13 +14,13 @@ Previously, I earned my PhD under the guidance of [Prof. Venkatasubramanian Visw
 
 
 # Bio
-- **Postdoctoral Researcher, University of Wisconsin-Madison** 2024-present
+- **Postdoctoral Researcher, University of Wisconsin-Madison** 2024-present<br>
     Advisor: Prof. Manos Mavrikakis
-- **PhD Mechanical Engineering, University of Michigan** 2024 
+- **PhD Mechanical Engineering, University of Michigan** 2024<br> 
     Advisor: Prof. Venkatasubramanian Viswanathan
-- **MS Mechanical Engineering, Carnegie Mellon University** 2023  
+- **MS Mechanical Engineering, Carnegie Mellon University** 2023<br>  
     Advisor: Prof. Venkatasubramanian Viswanathan
-- **MASc Materials Science & Engineering, University of Toronto** 2019  
+- **MASc Materials Science & Engineering, University of Toronto** 2019<br>  
     Advisor: Prof. Chandra Veer Singh
 - **HBSc Physics Specialist & Math Minor, University of Toronto** 2017
 
